@@ -1,0 +1,26 @@
+body{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+}
+
+h1{
+
+    box-sizing: content-box;
+    font-family: lucida console, Helvetica, monospace;
+    text-align: left;
+    margin: 60px auto auto 50px;
+}
+
+div {
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.j,
+.k{
+    width: 200px;
+    height: auto;
+    padding: 8px;
+    font-family: cursive;
+}
