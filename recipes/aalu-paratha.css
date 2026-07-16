@@ -1,24 +1,33 @@
 body{
-    background-color:coral;
+    background-color:rgb(60, 151, 203);
     height: auto;
     width: auto;
+}
 
 h1{
     display: inline;
-    box-sizing: border-box;
     text-align: left;
     margin-top: 20px 0px 0px auto;
     padding: 1px;
+    margin-left: 10px;
     
 }
+
 #b{
     display: inline;
+     margin-left: 10px;
     margin-left: 60px;
 }
 
 img{
+    display:block;
     margin-top: 20px;
     height: 300px;
     width: auto;
+    margin-left: 10px;
     
+}
+#k{
+    margin-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
